@@ -4,4 +4,4 @@ Export jar:
 
 ``` mvn clean package ```
 
-Credits: notgaba#2142
+Credits: https://github.com/Gabagooooooooooool/AuroraUpdater
