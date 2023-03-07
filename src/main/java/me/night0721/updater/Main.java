@@ -18,7 +18,6 @@ public class Main {
         }
         if (args[2].equals("mainrepo")) {
             downloadFile(modFile.getPath());
-//            FileUtils.copyURLToFile(new URL("https://github.com/night0721/Lilase/releases/latest/download/Lilase.jar"), modFile);
             JOptionPane.showMessageDialog(null, "Updated Aurora!");
             System.exit(0);
         }
